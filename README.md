@@ -14,13 +14,13 @@
 
 
 # GitHub Stats
-<table style="width:100%; border:none">
-  <tr>
-    <td style="border:none">
+<table style="border: none" cellspacing="0" cellpadding="0">
+  <tr style="border: none">
+    <td style="border: none">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manpham1203&layout=compact&exclude_repo=github-readme-stats" alt="manpham1203" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=manpham1203&hide_border=false&include_all_commits=true&count_private=true" alt="manpham1203" width="100%"/>
     </td>
-    <td style="border:none">
+    <td style="border: none">
       <p align="center"> 
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
