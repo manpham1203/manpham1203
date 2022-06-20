@@ -6,8 +6,12 @@
 
 
 
-## Skills:
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+## Tech Stack:
+![C#](https://img.shields.io/badge/-c_sharp-903BA7?style=for-the-badge&logo=csharp&logoColor=white)
+![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-1572B6?style=for-the-badge&logo=HTML5&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-1572B6?style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
+  
 
 
 <table style="width:100%;">
