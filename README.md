@@ -6,7 +6,7 @@
 ![dotnet](https://img.shields.io/badge/-.net-903BA7?style=for-the-badge&logo=dotnet&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-323330?style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-E8D44D?style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
 ![react](https://img.shields.io/badge/-react-0D0627?style=for-the-badge&logo=react&logoColor=white)
 ![redux](https://img.shields.io/badge/-redux-7247B5?style=for-the-badge&logo=redux&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/-bootstrap-6E41A4?style=for-the-badge&logo=bootstrap&logoColor=white)
