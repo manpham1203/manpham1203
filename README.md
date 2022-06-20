@@ -6,14 +6,14 @@
 
 
 
-## Tech Stack:
+# Tech Stack
 ![C#](https://img.shields.io/badge/-c_sharp-903BA7?style=for-the-badge&logo=csharp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-1572B6?style=for-the-badge&logo=HTML5&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-1572B6?style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
 
 
-
+# GitHub Stats
 <table style="width:100%; border:none">
   <tr>
     <td style="border:none">
