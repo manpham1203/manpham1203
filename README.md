@@ -11,13 +11,13 @@
 ![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-1572B6?style=for-the-badge&logo=HTML5&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-1572B6?style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
-  
+
 
 
 <table style="width:100%; border:none">
   <tr>
     <td style="border:none">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manpham1203&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="manpham1203" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manpham1203&layout=compact&exclude_repo=github-readme-stats" alt="manpham1203" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=manpham1203&hide_border=false&include_all_commits=true&count_private=true" alt="manpham1203" width="100%"/>
     </td>
     <td style="border:none">
