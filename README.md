@@ -14,13 +14,13 @@
   
 
 
-<table style="width:100%;">
+<table style="width:100%; border:none">
   <tr>
-    <td>
+    <td style="border:none">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manpham1203&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="manpham1203" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=manpham1203&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="manpham1203" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=manpham1203&hide_border=false&include_all_commits=true&count_private=true" alt="manpham1203" width="100%"/>
     </td>
-    <td>
+    <td style="border:none">
       <p align="center"> 
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
