@@ -7,10 +7,15 @@
 
 
 # Tech Stack
-![C#](https://img.shields.io/badge/-c_sharp-903BA7?style=for-the-badge&logo=csharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/-c%23-903BA7?style=for-the-badge&logo=csharp&logoColor=white)
+![dotnet](https://img.shields.io/badge/-.net-903BA7?style=for-the-badge&logo=dotnet&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-1572B6?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-1572B6?style=for-the-badge&logo=JAVASCRIPT&logoColor=white)
+![react](https://img.shields.io/badge/-react-1572B6?style=for-the-badge&logo=react&logoColor=white)
+![redux](https://img.shields.io/badge/-redux-1572B6?style=for-the-badge&logo=redux&logoColor=white)
+![bootstrap](https://img.shields.io/badge/-bootstrap-1572B6?style=for-the-badge&logo=bootstrap&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-1572B6?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
 # GitHub Stats
