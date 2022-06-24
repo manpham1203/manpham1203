@@ -17,6 +17,7 @@
 <table style="border: none" cellspacing="0" cellpadding="0">
   <tr style="border: none">
     <td style="border: none">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manpham1203&layout=compact&exclude_repo=github-readme-stats" alt="manpham1203" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=manpham1203&hide_border=false&include_all_commits=true&count_private=true" alt="manpham1203" width="100%"/>
     </td>
     <td style="border: none">
