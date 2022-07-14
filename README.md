@@ -13,7 +13,7 @@
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-15B8C5?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 # My CV
-<a href="https://github.com/manpham1203/my-cv/blob/master/cv.pdf" style="backgroud:#000">CLICK ME!</a>
+<a href="https://github.com/manpham1203/my-cv/blob/master/cv.pdf">CLICK ME!</a>
 
 # GitHub Stats
 <table style="border: none" cellspacing="0" cellpadding="0">
