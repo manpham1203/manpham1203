@@ -12,6 +12,8 @@
 ![bootstrap](https://img.shields.io/badge/-bootstrap-6E41A4?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/-tailwindcss-15B8C5?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
+# My CV
+<a href="https://github.com/manpham1203/my-cv/blob/master/cv.pdf">My CV</a>
 
 # GitHub Stats
 <table style="border: none" cellspacing="0" cellpadding="0">
